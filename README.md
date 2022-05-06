@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello World, I'm Milo 👋
+- 🌱 Estudando Java
 <!--
 **MiloVSM/MiloVSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
