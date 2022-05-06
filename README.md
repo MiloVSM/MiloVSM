@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div style="display: inline-flex">
 <a href="https://github.com/MiloVSM?tab=repositories">
   <img width="420em" height="180em" src="https://github-readme-stats.vercel.app/api?username=MiloVSM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="420em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiloVSM&layout=compact&langs_count=7&theme=dark"/>
+  <img width="415em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiloVSM&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br> 
   <img align="center" alt="Lang-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
