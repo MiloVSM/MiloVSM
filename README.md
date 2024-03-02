@@ -18,11 +18,9 @@ Here are some ideas to get you started:
   <img width="420em" height="180em" src="https://github-readme-stats.vercel.app/api?username=MiloVSM&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=false"/>
   <img width="410em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiloVSM&layout=compact&langs_count=8&theme=midnight-purple"/>
 </div>
+##  Tech Stack:
 <div style="display: inline_block"><br> 
- <img align="center" alt="Lang-C#" height="30" width="50" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
- <img align="center" alt="Lang-DOTNET" height="30" width="70" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img align="center" alt="Lang-JS" height="30" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="Lang-NODEJS" height="30" width="100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+ [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,nodejs)](https://skillicons.dev)
 </div>
 
  
