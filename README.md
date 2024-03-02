@@ -19,9 +19,7 @@ Here are some ideas to get you started:
   <img width="410em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiloVSM&layout=compact&langs_count=8&theme=midnight-purple"/>
 </div>
 ##  Tech Stack:
-<div style="display: inline_block"><br> 
- [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,nodejs)](https://skillicons.dev)
-</div>
+ [![SkillIcons](https://skillicons.dev/icons?i=cs,dotnet,js,nodejs)](https://skillicons.dev)<br/>
 
  
 <div> 
