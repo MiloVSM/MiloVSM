@@ -21,11 +21,8 @@ Here are some ideas to get you started:
   
 ##  Tech Stack:
 
-  [![SkillIcons](https://skillicons.dev/icons?i=cs,dotnet,js,nodejs)](https://skillicons.dev)<br/>
-
+  [![SkillIcons](https://skillicons.dev/icons?i=js,nodejs,react,cs,dotnet)](https://skillicons.dev)<br/>&nbsp;
 <div> 
-  <a href="https://www.linkedin.com/in/milovsm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <span></span>
-  <a href = "mailto:murilo1.0@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
-</div>
+  <a href="https://linkedin.com/in/milovsm" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
+  <a href="mailto:murilo1.0@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" height="25"></a>&nbsp;
 </div>
